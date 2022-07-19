@@ -1,0 +1,12 @@
+1 (“conference abstract” or “conference review”).ti,ab,kf. 
+2 limit 1 to yr = “1974-2018”
+3 exp animals/ not exp humans
+4 (comment or editorial or case reports or historical article).pt
+5 editorial/ case report/ 
+6 (case stud$ or case report$).ti.
+7 or/2-6
+8 (Random?ed adj2 trial$).ti,ab,kf.
+9 “Double-Blind Method”/
+10 exp “Clinical Trial, Phase I”/ 
+11 (detect$ or predict$ or identif$ or diagnos$ or test$).ti. or “sensitivity or specificity”/ or (sensitiv$ or specific$ or accura$ or precis$ or “predictive value$ or “likelihood ratio$”).ti,ab,kf.
+12 and/1-4
